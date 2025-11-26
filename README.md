@@ -10,5 +10,6 @@ Key points include:
 
 The essay concludes that while Bohmian mechanics elegantly addresses the measurement problem, its unclear treatment of the wave function prevents it from being a fully satisfactory resolution.
 
-Mark: 68/100.
+Mark: 68/100
+
 Feedback: Clear, well-written essay with convincing arguments and good understanding of subject matter. Could be improved by deeper engagement with relativistic quantum mechanics and quantum field theory.
