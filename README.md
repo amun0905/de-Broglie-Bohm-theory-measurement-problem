@@ -1,4 +1,4 @@
-This reposiroty contains Amun Govil Lie's undegraduate essay in Philosophy of Physics, anwering the question "How satisfactory is the de Broglie-Bohm theory as a resoltion to the measurement problem?".
+This repository contains Amun Govil Lie's undegraduate essay in Philosophy of Physics, anwering the question "How satisfactory is the de Broglie-Bohm theory as a resoltion to the measurement problem?".
 
 Key points include:
 - **Resolution:** Bohmian mechanics avoids wave function collapse by maintaining deterministic evolution under the Schrödinger equation.  
